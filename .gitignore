@@ -1,0 +1,15 @@
+# 빌드 폴더
+/target/*
+!target/my-spring-app.war
+
+# 이클립스/STS
+*.classpath
+*.project
+.settings/
+.springBeans
+.apt_generated/
+.factorypath
+
+# IntelliJ 대비
+.idea/
+*.iml
