@@ -1,6 +1,6 @@
 # 빌드 폴더
 /target/*
-!target/my-spring-app.war
+!target/flask_chart.war
 
 # 이클립스/STS
 *.classpath
